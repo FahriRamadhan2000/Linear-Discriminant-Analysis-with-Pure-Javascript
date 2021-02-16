@@ -1,0 +1,28 @@
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #9622a3;
+    font-size: medium;
+}
+
+.heading, .title {
+    text-align:  center;
+}
+
+.title {
+    font-size: 4rem;
+}
+
+.title {
+    font-size: 3rem;
+}
+
+table {
+    margin: 50px auto;
+    border-collapse: collapse;
+}
+
+td {
+    border-bottom: 2px solid #e9e9ee;
+    padding: 1em 2em;
+}
